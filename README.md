@@ -29,14 +29,14 @@ These datasets all come with sample- or cell-level multi-omics profiles and know
 
 # Code
 
-The dependencies required are R. All of the code can be found [here](https://github.com/labxscut/OmiHier/main/Code).
+The dependencies required are R. All of the code can be found [here](https://github.com/labxscut/OmiHier/tree/main/Code).
 
 The code base structure is explained below:
 
-* **[Simulation_Data_Generation.R](https://github.com/labxscut/OmiHier/main/Code/1.Simulation_Data_Generation.R)**: script for generating the simulation data.
-* **[Simulation_Data_Variability_Evaluation.R](https://github.com/labxscut/OmiHier/main/Code/2.Simulation_Data_Variability_Evaluation.R)**: script for evaluating the effect of data variability to the simulation data.
-* **[Real_World_Data_Hierarchy_Learning.R](https://github.com/labxscut/OmiHier/main/Code/3.Real_World_Data_Hierarchy_Learning.R)**: script for learning the hierarchies of real-world datasets.
-* **[Real_World_Data_Hierarchy_Evaluation.R](https://github.com/labxscut/OmiHier/main/Code/4.Real_World_Data_Hierarchy_Evaluation.R)**: script for evaluating the performance of the OmiHier hierarchies on real-world datasets.
+* **[Simulation_Data_Generation.R](https://github.com/labxscut/OmiHier/tree/main/Code/1.Simulation_Data_Generation.R)**: script for generating the simulation data.
+* **[Simulation_Data_Variability_Evaluation.R](https://github.com/labxscut/OmiHier/tree/main/Code/2.Simulation_Data_Variability_Evaluation.R)**: script for evaluating the effect of data variability to the simulation data.
+* **[Real_World_Data_Hierarchy_Learning.R](https://github.com/labxscut/OmiHier/tree/main/Code/3.Real_World_Data_Hierarchy_Learning.R)**: script for learning the hierarchies of real-world datasets.
+* **[Real_World_Data_Hierarchy_Evaluation.R](https://github.com/labxscut/OmiHier/tree/main/Code/4.Real_World_Data_Hierarchy_Evaluation.R)**: script for evaluating the performance of the OmiHier hierarchies on real-world datasets.
 
 
 

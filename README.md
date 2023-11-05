@@ -14,13 +14,13 @@ We downloaded six real-world multi-omics datasets for benchmark.
 
 * ① Breast and gastric cancer data were downloaded from The Cancer Genome Atlas (TCGA) and the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC), including mutation, copy number aberration and methylation data, and through both the cBioPortal (https://www.cbioportal.org/) and the TCGA data portal.
 
-* ① Colon cancer microbiome data was downloaded from the ENA database (PRJEB7774).
+* ② Colon cancer microbiome data was downloaded from the ENA database (PRJEB7774).
 
-* ① Gastric cancer cell line NCI-N87 scRNA-seq data was downloaded from Gene Expression Omnibus (GSE142750) and National Institute of Health’s SRA (PRJNA498809).
+* ③ Gastric cancer cell line NCI-N87 scRNA-seq data was downloaded from Gene Expression Omnibus (GSE142750) and National Institute of Health’s SRA (PRJNA498809).
 
-* ① Lymphoid cell scRNA-seq data was downloaded from human Ensemble Cell Atlas (hECA) system.
+* ④ Lymphoid cell scRNA-seq data was downloaded from human Ensemble Cell Atlas (hECA) system.
 
-* ① Liver cancer spatial transcriptome data was downloaded from the HCCDB database (Integrative Molecular Database of Hepatocellular Carcinoma).
+* ⑤ Liver cancer spatial transcriptome data was downloaded from the HCCDB database (Integrative Molecular Database of Hepatocellular Carcinoma).
 
 These datasets all come with sample- or cell-level multi-omics profiles and known biological labels, such as disease subtype, cell lineage and disease status.
 

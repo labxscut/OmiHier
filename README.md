@@ -4,7 +4,8 @@
 ## Summary
 We proposed Omics Label Hierarchy Learning (OmiHier), a data-driven hierarchical structure learning algorithm. OmiHier adopts a bottom-up iterative framework, interlacing classification error minimization with successive label clustering, thus enables automatic and simultaneous learning of both class hierarchy and sample labels. We evaluated OmiHier on a number of simulated and real-world multi-omics datasets, including complex disease, microbiome, single-cell and spatial transcriptomics data. The benchmark demonstrated OmiHier’s high performance in classification accuracy, as well in inferring the true biological hierarchy.
 
-The repository contains all the data (https://github.com/labxscut/OmiHier/main/Data) and code (https://github.com/labxscut/OmiHier/main/code.md) used in this study, as well as some important results (please refer to the figures(https://github.com/labxscut/OmiHier/main/Figures)).
+The repository contains all the data (https://github.com/labxscut/OmiHier/main/Data) and code (https://github.com/labxscut/OmiHier/main/Code) used in this study, as well as some important results (please refer to the figures(https://github.com/labxscut/OmiHier/main/Figures)).
+
 
 # Data 
 
@@ -24,6 +25,17 @@ We downloaded six real-world multi-omics datasets for benchmark.
 
 These datasets all come with sample- or cell-level multi-omics profiles and known biological labels, such as disease subtype, cell lineage and disease status.
 
+
+# Code
+
+The dependencies required are R. All of the code can be found [here](https://github.com/labxscut/OmiHier/main/Code).
+
+The code base structure is explained below:
+
+* **[Simulation_Data_Generation.R](https://github.com/labxscut/OmiHier/main/Code/1.Simulation_Data_Generation.R)**: script for generating the simulation data.
+* **[Simulation_Data_Variability_Evaluation.R](https://github.com/labxscut/OmiHier/main/Code/2.Simulation_Data_Variability_Evaluation.R)**: script for evaluating the effect of data variability to the simulation data.
+* **[Real_World_Data_Hierarchy_Learning.R](https://github.com/labxscut/OmiHier/main/Code/3.Real_World_Data_Hierarchy_Learning.R)**: script for learning the hierarchies of real-world datasets.
+* **[Real_World_Data_Hierarchy_Evaluation.R](https://github.com/labxscut/OmiHier/main/Code/4.Real_World_Data_Hierarchy_Evaluation.R)**: script for evaluating the performance of the OmiHier hierarchies on real-world datasets.
 
 
 

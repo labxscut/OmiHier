@@ -4,7 +4,7 @@
 ## Summary
 We proposed Omics Label Hierarchy Learning (OmiHier), a data-driven hierarchical structure learning algorithm. OmiHier adopts a bottom-up iterative framework, interlacing classification error minimization with successive label clustering, thus enables automatic and simultaneous learning of both class hierarchy and sample labels. We evaluated OmiHier on a number of simulated and real-world multi-omics datasets, including complex disease, microbiome, single-cell and spatial transcriptomics data. The benchmark demonstrated OmiHier’s high performance in classification accuracy, as well in inferring the true biological hierarchy.
 
-The repository contains all the data (https://github.com/labxscut/OmiHier/main/Data) and code (https://github.com/labxscut/OmiHier/main/Code) used in this study, as well as some important results (please refer to the figures(https://github.com/labxscut/OmiHier/main/Figures)).
+The repository contains all the data (https://github.com/labxscut/OmiHier/main/Data) and code (https://github.com/labxscut/OmiHier/main/Code) used in this study, as well as some important results (please refer to the figures(https://github.com/labxscut/OmiHier/main/Figures).
 
 ![image](Figures/Figure1_Study_framework.png)
 

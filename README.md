@@ -8,11 +8,10 @@ The repository contains all the data (https://github.com/labxscut/OmiHier/tree/m
 
 ![image](Figures/Figure1_Study_framework.png)
 
-# Data 
 
-## Original data 
+## Data 
 
-We downloaded six real-world multi-omics datasets for benchmark.
+We simulated 28 datasets and downloaded six real-world multi-omics datasets for benchmark. Details of the real-world datasets are given below:
 
 * ① Breast and gastric cancer data were downloaded from The Cancer Genome Atlas (TCGA) and the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC), including mutation, copy number aberration and methylation data, and through both the cBioPortal (https://www.cbioportal.org/) and the TCGA data portal.
 
@@ -29,7 +28,7 @@ These datasets all come with sample- or cell-level multi-omics profiles and know
 All of the pre-processed datasets can be found [here](https://github.com/labxscut/OmiHier/tree/main/Data).
 
 
-# Code
+## Code
 
 The dependencies required are R. All of the codes can be found [here](https://github.com/labxscut/OmiHier/tree/main/Code).
 

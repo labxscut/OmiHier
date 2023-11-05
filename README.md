@@ -26,10 +26,12 @@ We downloaded six real-world multi-omics datasets for benchmark.
 
 These datasets all come with sample- or cell-level multi-omics profiles and known biological labels, such as disease subtype, cell lineage and disease status.
 
+All of the pre-processed datasets can be found [here](https://github.com/labxscut/OmiHier/tree/main/Data).
+
 
 # Code
 
-The dependencies required are R. All of the code can be found [here](https://github.com/labxscut/OmiHier/tree/main/Code).
+The dependencies required are R. All of the codes can be found [here](https://github.com/labxscut/OmiHier/tree/main/Code).
 
 The code base structure is explained below:
 

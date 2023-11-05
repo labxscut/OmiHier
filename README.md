@@ -6,7 +6,7 @@ We proposed Omics Label Hierarchy Learning (OmiHier), a data-driven hierarchical
 
 The repository contains all the data (https://github.com/labxscut/OmiHier/main/Data) and code (https://github.com/labxscut/OmiHier/main/Code) used in this study, as well as some important results (please refer to the figures(https://github.com/labxscut/OmiHier/main/Figures)).
 
-![Framework](https://github.com/labxscut/OmiHier/main/Figures/Figure1_Study_framework.png?raw=true)
+![Figure1_Study_framework](https://github.com/labxscut/OmiHier/main/Figures/Figure1_Study_framework.png?raw=true)
 
 # Data 
 

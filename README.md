@@ -9,6 +9,13 @@ The repository contains all the data (https://github.com/labxscut/OmiHier/releas
 ![image](Figures/Figure1_Study_framework.png)
 
 
+## Installation
+```R
+install.packages('devtools')
+devtools::install_github("labxscut/OmiHier@master", subdir = "OmiHier")
+```
+
+
 ## Data 
 
 We simulated 28 datasets and downloaded six real-world multi-omics datasets for benchmark. Details of the real-world datasets are given below:

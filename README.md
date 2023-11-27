@@ -1,5 +1,5 @@
 # OmiHier: simultaneous learning of class label and hierarchy for omics data multi-class classification
-*Jiemin Xie, Keyi Li, Zhanyu Liang, Bozhen Ren, Xuemei Liu, Yunhui Xiong, Li C. Xia**
+*Jiemin Xie, Guanghao Wu, Keyi Li, Zhanyu Liang, Bozhen Ren, Xuemei Liu, Yunhui Xiong, Li C. Xia**
 
 ## Summary
 We proposed Omics Label Hierarchy Learning (OmiHier), a data-driven hierarchical structure learning algorithm. OmiHier adopts a bottom-up iterative framework, interlacing classification error minimization with successive label clustering, thus enables automatic and simultaneous learning of both class hierarchy and sample labels. We evaluated OmiHier on a number of simulated and real-world multi-omics datasets, including complex disease, microbiome, single-cell and spatial transcriptomics data. The benchmark demonstrated OmiHier’s high performance in classification accuracy, as well in inferring the true biological hierarchy.
